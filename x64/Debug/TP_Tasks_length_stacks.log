@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Renox\source\repos\TP_Tasks_length_stacks\TP_Tasks_length_stacks\stack.h(114): warning C4715: Stack<int>::operator=: значение возвращается не при всех путях выполнения
+  TP_Tasks_length_stacks.vcxproj -> C:\Users\Renox\source\repos\TP_Tasks_length_stacks\x64\Debug\TP_Tasks_length_stacks.exe
